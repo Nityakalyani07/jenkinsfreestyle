@@ -6,3 +6,7 @@ Build executed at Fri May  8 06:15:07 UTC 2026
 Build executed at Fri May  8 06:16:00 UTC 2026
 Build executed at Fri May  8 06:17:00 UTC 2026
 Build executed at Fri May  8 06:17:56 UTC 2026
+a = 10
+b = 40
+print (a+b)
+
